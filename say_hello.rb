@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def require_relative say_hello
+  phrase= "Hello Gabriela!""
+end
